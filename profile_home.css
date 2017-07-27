@@ -1,0 +1,55 @@
+body {
+  background-color: #E8E8E8;
+}
+/* ===== ===== header ===== ===== */
+.header {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+h1 {
+  font-size: 60px;
+  color: #21618C;
+}
+h2 {
+  color: #1E31EC;
+  font-size: 35px;
+}
+
+/* ===== ===== main menu ===== ===== */
+.main-section {
+  text-align: center;
+  width: 700px;
+  height: 50px;
+  margin-left: 590px;
+}
+.submenu {
+  margin: 50px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+  color: #000000;
+  text-decoration: none;
+}
+.submenu:hover {
+  font-size: 35px;
+  transition: 500ms;
+  text-decoration: underline;
+}
+
+/* ===== ===== article ===== ===== */
+.article-section {
+  width: 1000px;
+  height: 250px;
+  margin-left: 500px;
+}
+#image {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-right: 10px;
+}
+#profile-bio {
+  font-family: 'Quicksand', sans-serif;
+  width: 700px;
+  font-size: 20px;
+  margin-left: 200px;
+}
